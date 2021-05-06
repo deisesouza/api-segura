@@ -1,2 +1,2 @@
 # api-segura
-API RestFul segura com Oauth2 do Spring Security.
+API RestFul com Spring Security e o protocolo OAuth2.
